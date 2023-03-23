@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0s1mt
 - 👀 I’m interested in ...Offensive Security
-- 🌱 I’m currently learning  python ve linux
+- 🌱 I’m currently learning  Penetration testing and BurpSuit
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... gmail : f1784840@gmail.com
 <!---
